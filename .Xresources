@@ -1,0 +1,54 @@
+XTerm*faceName: monospace
+xterm*faceSize: 10
+xterm*vt100*geometry: 80x24
+xterm*saveLines: 16384
+XTerm*pointerShape: left_ptr
+
+#define _color0        #3F51B5
+#define _color1        #F44336
+#define _color2        #4CAF50
+#define _color3        #FFEB3B
+#define _color4        #2196F3
+#define _color5        #9C27B0
+#define _color6        #00BCD4
+#define _color7        #795548
+#define _color8        #E91E63
+#define _color9        #C0392B
+#define _color10       #16A085
+#define _color11       #F1C40F
+#define _color12       #CDDC39
+#define _color13       #D35400
+#define _color14       #009688
+#define _color15       #FF5722
+
+
+#define _colorBD       #2ECC71
+#define _colorUL       #2ECC71
+#define _colorIT       #27AE60
+
+#define _foreground    #BDC3C7
+#define _background    #121212
+#define _cursorColor   #8faf9f
+
+XTerm*color0         : _color0
+XTerm*color1         : _color1
+XTerm*color2         : _color2
+XTerm*color3         : _color3
+XTerm*color4         : _color4
+XTerm*color5         : _color5
+XTerm*color6         : _color6
+XTerm*color7         : _color7
+XTerm*color8         : _color8
+XTerm*color9         : _color9
+XTerm*color10        : _color10
+XTerm*color11        : _color11
+XTerm*color12        : _color12
+XTerm*color13        : _color13
+XTerm*color14        : _color14
+XTerm*color15        : _color15
+XTerm*colorBD        : _colorBD
+XTerm*colorIT        : _colorIT
+XTerm*colorUL        : _colorUL
+XTerm*foreground     : _foreground
+XTerm*background     : _background
+XTerm*cursorColor    : _cursorColor
