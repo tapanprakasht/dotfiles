@@ -76,3 +76,6 @@ nmap <Leader>d :bd<CR>
 
 "Map ctrlp plugin
 nnoremap <Leader>o :CtrlP<CR>
+
+"open nerd tree
+nmap <Leader>j :NERDTreeToggle<CR>
